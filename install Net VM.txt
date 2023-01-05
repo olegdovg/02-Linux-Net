@@ -1,0 +1,7 @@
+#login as: oleh
+#oleh@192.168.200.17's password:
+#Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-50-generic x86_64)
+
+
+oleh@epamserver1:~$ sudo ip link set dev enp0s8 up
+oleh@epamserver1:~$ sudo ip addr add 10.73.19.1/24 dev enp0s8
